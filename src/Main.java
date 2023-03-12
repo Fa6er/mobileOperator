@@ -11,11 +11,9 @@ public class Main {
         int total = amount + refill + bonus;
 
         System.out.println("Бонусы- " + bonus);
-        System.out.println("Итоговая сумма- " +total);
-
+        System.out.println("Итоговая сумма- " + total);
 
         System.out.println("Больше никакой инициативы, честно, честно) ");
-
 
 
     }
